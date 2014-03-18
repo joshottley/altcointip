@@ -1,5 +1,5 @@
-# Bitcoin
-btc:
+# Dopecoin
+dope:
     enabled: True
     unit: DOPE
     name: Dopecoin
